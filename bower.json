@@ -1,5 +1,6 @@
 {
   "name": "meta4-qb",
+  "version": "0.2.0",
   "description": "",
   "main": "test/index.js",
   "authors": [

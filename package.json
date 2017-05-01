@@ -1,7 +1,7 @@
 {
-  "name": "qb",
-  "version": "1.0.0",
-  "description": "A modest toolkit for building micro-dashboards",
+  "name": "meta4-qb",
+  "version": "0.2.0",
+  "description": "A declarative toolkit for building micro-dashboards",
   "main": "test/index.js",
   "directories": {
     "test": "test"
