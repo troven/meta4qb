@@ -1,5 +1,5 @@
-define(["underscore", "defaults", "moment", "colors", "crossfilter", "dc", "d3",
-    "charts", "reducers", "valuers"], function (_, defaults, moment, colors, crossfilter, dc, d3, Charts, Reducers, Valuers) {
+define(["underscore", "defaults", "moment", "crossfilter", "dc", "d3",
+    "meta4qb/colors", "meta4qb/charts/index", "meta4qb/reducers", "meta4qb/valuers"], function (_, defaults, moment, crossfilter, dc, d3, colors, Charts, Reducers, Valuers) {
 
     //"/js/dc-addons/dist/dc-addons.js",
     if (!dc) throw "missing dc";
@@ -256,7 +256,7 @@ define(["underscore", "defaults", "moment", "colors", "crossfilter", "dc", "d3",
 
                 // call chart factory
                 var chart = qb.chart._create(el, slice);
-                console.warn("draw():", slice.id, $chart, chart);
+                console.warn("draw():", slice.id, el, chart);
 
 
                 // header & controls

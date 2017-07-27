@@ -1,4 +1,4 @@
-define(["jquery", "underscore", "bootstrap", "dc", "d3", "qb"], function ($, _, bootstrap, dc, d3, qb) {
+define(["jquery", "underscore", "dc", "d3", "meta4qb/qb"], function ($, _, dc, d3, qb) {
 
 var qbd = {};
 

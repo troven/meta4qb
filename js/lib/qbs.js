@@ -1,4 +1,4 @@
-define(["backbone", "colorbrewer", "dc", "d3", "qb"], function (Backbone, colorbrewer, dc, d3, qb) {
+define(["backbone", "colorbrewer", "dc", "d3", "meta4qb/qb"], function (Backbone, colorbrewer, dc, d3, qb) {
 
 var dash = {}
 _.extend(dash, {

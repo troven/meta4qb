@@ -1,4 +1,4 @@
-define(["underscore", "dc", "chart" ], function (_, dc, chart) {
+define(["underscore", "dc", "meta4qb/chart" ], function (_, dc, chart) {
 
     return function(qb) {
 

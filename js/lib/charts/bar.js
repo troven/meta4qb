@@ -1,4 +1,4 @@
-define(["underscore", "dc", "chart" ], function (_, dc, chart) {
+define(["underscore", "dc", "meta4qb/chart" ], function (_, dc, chart) {
 
     // chart type definition
 
@@ -8,6 +8,7 @@ define(["underscore", "dc", "chart" ], function (_, dc, chart) {
             title: "Bar Chart",
 
             create: function(el, slice) {
+console.log("bar el: %o", el);
                 var chart = dc.barChart(el, qb.id);
                 slice = qb.chart._configure(chart, "bar", slice);
                 console.log("Bar: ", chart, slice);
