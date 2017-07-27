@@ -1,6 +1,6 @@
 {
   "name": "meta4qb",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "description": "A declarative toolkit for building micro dashboards",
   "main": "js/lib/qbd.js",
   "directories": {
