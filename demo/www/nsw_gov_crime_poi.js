@@ -111,7 +111,7 @@ requirejs(["qbd"], function(qbd) {
         qbd: [{
             el: "#qb-container",
             url: "/data/nsw_gov_crime_poi.json",
-            colors: "blue",
+            colors: "orange",
             charts: [
                 {
                     "disabled": false,
