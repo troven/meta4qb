@@ -109,8 +109,8 @@ requirejs(["qbd"], function(qbd) {
         debug: false,
         qbd: [{
             el: "#qb-container",
-            url: "/dummy/data_govs.json",
-            colors: "orange",
+            url: "/data/nsw_gov_crime_poi.json",
+            colors: "blue",
             charts: [
                 {
                     "disabled": false,

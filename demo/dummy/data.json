@@ -1,9 +1,0 @@
-[
-	{ "id": "5001", "flavor": "None", "qty": 35, "price": "2.00" },
-	{ "id": "5002", "flavor": "Glazed", "qty": 30, "price": "3.00"  },
-	{ "id": "5005", "flavor": "Sugar", "qty": 25, "price": "2.50"  },
-	{ "id": "5007", "flavor": "Powdered Sugar", "qty": 15, "price": "2.50" },
-	{ "id": "5006", "flavor": "Chocolate with Sprinkles", "qty": 5, "price": "3.50" },
-	{ "id": "5003", "flavor": "Chocolate", "qty": 10, "price": "3.50" },
-	{ "id": "5004", "flavor": "Maple", "qty": 20, "price": "3.50" }
-]
