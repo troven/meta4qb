@@ -14,7 +14,7 @@ app.use('/dummy', express.static(__dirname +'/dummy/'));
 
 var port = process.env.PORT | 8082
 app.listen(port, function () {
-  console.log('QB app port: %s -> %s ',port, cwd);
+  console.log('[meta4qb] app port: %s -> %s ',port, cwd);
 });
 
 
