@@ -62,6 +62,7 @@ _.extend(qbd, {
 
 		if (_.isString(responseAccessor)) responseAccessor = qbd.responseFormat[responseAccessor]
 
+		var $loading = $(conf.loader || ".qb-loading" );
 		var url = conf.url+"?"
 
 		_.each(params, function(v,k) {
@@ -69,6 +70,7 @@ _.extend(qbd, {
 		})
 		url = url.substring(0,url.length-1)
 
+		$loading.show();
 		// ask the data source
 		if (conf.url && d3[responseType]) {
 			// TODO: optimise re-use of data sources
@@ -86,6 +88,7 @@ _.extend(qbd, {
 				} else {
 					_qb.load(data)
 					qbd.draw(conf, data);
+					$loading.hide();
 					_qb.render()
 				}
 			})
@@ -122,7 +125,7 @@ _.extend(qbd, {
 	},
 
 	drawEmpty: function(conf) {
-		conf.el = $(conf.el || qbd.options.el )
+		conf.el = $(conf.el || qbd.options.el );
 		conf.el.addClass(qbd.options.css.empty);
         this.DEBUG && console.log("drawEmpty: %o", conf);
 
