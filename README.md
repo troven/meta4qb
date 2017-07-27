@@ -7,7 +7,7 @@ Run the demo
 
 	Docker:
 	
-	docker run troven/meta4qb
+	docker run meta4qb:latest
 
 	Local / Development:
 

@@ -17,7 +17,8 @@ require.config({
 
 // QB
         colorbrewer: "/bower_components/colorbrewer/colorbrewer",
-        crossfilter: "/bower_components/crossfilter/crossfilter",
+        crossfilter: "/bower_components/crossfilter/crossfilter.min",
+        crossfilter2: "/bower_components/crossfilter2/crossfilter.min",
         moment: "/bower_components/moment/moment",
 
         dc: "/bower_components/dcjs/dc",
