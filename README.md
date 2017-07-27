@@ -7,7 +7,7 @@ Run the demo
 
 	Local / Development:
 
-	node demo/index.js
+	npm start
 
 Open your browser
 
