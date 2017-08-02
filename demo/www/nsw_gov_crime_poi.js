@@ -5,7 +5,7 @@ if (top != self) { top.location.replace(self.location.href); }
 // meta4 specific
 
 require.config({
-    baseUrl: "/bower_components/",
+    baseUrl: "/bower_components/meta4qb/js",
     waitSeconds: 10,
     paths: {
         jquery: "/bower_components/jquery/dist/jquery.min",
@@ -24,10 +24,10 @@ require.config({
         dc: "/bower_components/dcjs/dc",
         d3: "/bower_components/d3/d3",
 
-        defaults: "meta4qb/defaults",
-        qb: "meta4qb/qb",
-        qbd: "meta4qb/qbd",
-        qbs: "meta4qb/qbs"
+        defaults: "defaults",
+        qb: "qb",
+        qbd: "qbd",
+        qbs: "qbs"
 
     },
     wrapShim: true,
@@ -117,7 +117,7 @@ requirejs(["qbd"], function(qbd) {
 			"disabled": false,
 			"width": 330,
 			"height": 600,
-			"header": "Age by Suburb",
+			"header": "Incidents by Suburb",
 			"type": "row",
 			"showControls": false,
 			"renderHorizontalGridLines": false,
@@ -125,8 +125,7 @@ requirejs(["qbd"], function(qbd) {
 			"valueAccessor": "count",
 			"measure": "poi_age",
 			"dimension": "locsurb"
-		},
-		{
+		},{
 			"debug": true,
 			"width": 200,
 			"height": 200,

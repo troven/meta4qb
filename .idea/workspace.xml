@@ -2,84 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0947bfca-0a2c-459f-9ea3-b9a00d85fd0f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/images/ui-bg_flat_10_000000_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/images/ui-bg_glass_100_f6f6f6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/images/ui-bg_glass_100_fdf5ce_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/images/ui-icons_228ef1_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/images/ui-icons_ef8c08_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/images/ui-icons_ffd27a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/dummy/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/dummy/data_govs.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/backbone/backbone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/dc/colorbrewer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/dc/crossfilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/dc/d3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/dc/dc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/dc/dc.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/dc/dc.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/dc/dc.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/dc/env-data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-1.11.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-1.11.2.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/external/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/jquery-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/jquery-ui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/jquery-ui.structure.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/jquery-ui.structure.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/jquery-ui.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/jquery-ui.theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/jquery/jquery-ui-1.11.4.custom/lee.txt.sb-6f39c19c-lRGw0P" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/marionette/backbone.marionette.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/marionette/backbone.marionette.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/marionette/backbone.marionette.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/marionette/backbone.marionette.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/marionette/backbone.radio.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/marionette/backbone.radio.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/marionette/old/backbone.marionette.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/marionette/old/backbone.marionette.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/marionette/old/backbone.marionette.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/marionette/old/marionette230.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/moment/moment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/www/crime_poi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/www/crime_poi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/www/css/slate/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/www/dashboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/www/dummy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/www/dummy.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/qb_node_modules.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/qb.iml" afterPath="$PROJECT_DIR$/.idea/qb.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/charts/bar.js" afterPath="$PROJECT_DIR$/js/lib/charts/bar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/charts/bubble.js" afterPath="$PROJECT_DIR$/js/lib/charts/bubble.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/charts/column.js" afterPath="$PROJECT_DIR$/js/lib/charts/column.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/charts/count.js" afterPath="$PROJECT_DIR$/js/lib/charts/count.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/charts/donut.js" afterPath="$PROJECT_DIR$/js/lib/charts/donut.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/charts/geo.js" afterPath="$PROJECT_DIR$/js/lib/charts/geo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/charts/index.js" afterPath="$PROJECT_DIR$/js/lib/charts/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/charts/pie.js" afterPath="$PROJECT_DIR$/js/lib/charts/pie.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/charts/scatter.js" afterPath="$PROJECT_DIR$/js/lib/charts/scatter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/charts/series.js" afterPath="$PROJECT_DIR$/js/lib/charts/series.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/charts/table.js" afterPath="$PROJECT_DIR$/js/lib/charts/table.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/charts/time.js" afterPath="$PROJECT_DIR$/js/lib/charts/time.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/qb.js" afterPath="$PROJECT_DIR$/js/lib/qb.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/qbd.js" afterPath="$PROJECT_DIR$/js/lib/qbd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/qbs.js" afterPath="$PROJECT_DIR$/js/lib/qbs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/accessors.js" afterPath="$PROJECT_DIR$/js/accessors.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/chart.js" afterPath="$PROJECT_DIR$/js/chart.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/charts/bar.js" afterPath="$PROJECT_DIR$/js/charts/bar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/charts/bubble.js" afterPath="$PROJECT_DIR$/js/charts/bubble.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/charts/column.js" afterPath="$PROJECT_DIR$/js/charts/column.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/charts/count.js" afterPath="$PROJECT_DIR$/js/charts/count.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/charts/donut.js" afterPath="$PROJECT_DIR$/js/charts/donut.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/charts/geo.js" afterPath="$PROJECT_DIR$/js/charts/geo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/charts/index.js" afterPath="$PROJECT_DIR$/js/charts.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/charts/line.js" afterPath="$PROJECT_DIR$/js/charts/line.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/charts/pie.js" afterPath="$PROJECT_DIR$/js/charts/pie.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/charts/row.js" afterPath="$PROJECT_DIR$/js/charts/row.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/charts/scatter.js" afterPath="$PROJECT_DIR$/js/charts/scatter.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/charts/series.js" afterPath="$PROJECT_DIR$/js/charts/series.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/charts/table.js" afterPath="$PROJECT_DIR$/js/charts/table.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/charts/time.js" afterPath="$PROJECT_DIR$/js/charts/time.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/colors.js" afterPath="$PROJECT_DIR$/js/colors.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/defaults.js" afterPath="$PROJECT_DIR$/js/defaults.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/iq.js" afterPath="$PROJECT_DIR$/js/iq.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/qb.js" afterPath="$PROJECT_DIR$/js/qb.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/qbd.js" afterPath="$PROJECT_DIR$/js/qbd.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/qbs.js" afterPath="$PROJECT_DIR$/js/qbs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/reducers.js" afterPath="$PROJECT_DIR$/js/reducers.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/valuers.js" afterPath="$PROJECT_DIR$/js/valuers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/data/nsw_gov_crime_poi.json" afterPath="$PROJECT_DIR$/demo/data/nsw_gov_crime_poi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/www/index.html" afterPath="$PROJECT_DIR$/demo/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/www/nsw_gov_crime_poi.html" afterPath="$PROJECT_DIR$/demo/www/nsw_gov_crime_poi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/www/nsw_gov_crime_poi.js" afterPath="$PROJECT_DIR$/demo/www/nsw_gov_crime_poi.js" />
     </list>
     <ignored path="qb.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -99,70 +50,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="qbd.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/qbd.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2010">
+              <caret line="134" column="8" selection-start-line="134" selection-start-column="8" selection-end-line="134" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="bar.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/lib/charts/bar.js">
+        <entry file="file://$PROJECT_DIR$/js/charts/bar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+            <state relative-caret-position="345">
+              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bubble.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/lib/charts/bubble.js">
+      <file leaf-file-name="charts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/charts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="195">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/lib/charts/index.js">
+      <file leaf-file-name="nsw_gov_crime_poi.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/www/nsw_gov_crime_poi.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            <state relative-caret-position="435">
+              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dummy.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/www/dummy.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="64" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-              <folding>
-                <marker date="1501158294000" expanded="true" signature="2062:2648" ph="//..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crime_poi.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/www/crime_poi.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crime_poi.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo/www/crime_poi.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/dummy/data.json">
+      <file leaf-file-name="accessors.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/accessors.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -171,8 +100,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data_govs.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/dummy/data_govs.json">
+      <file leaf-file-name="chart.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/chart.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -181,8 +110,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dummy.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/www/dummy.html">
+      <file leaf-file-name="colors.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/colors.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="defaults.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/defaults.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iq.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/iq.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -205,8 +164,6 @@
         <option value="$PROJECT_DIR$/test/www/index.js" />
         <option value="$PROJECT_DIR$/demo/js/index.js" />
         <option value="$PROJECT_DIR$/demo/www/index.html" />
-        <option value="$PROJECT_DIR$/js/lib/qb.js" />
-        <option value="$PROJECT_DIR$/js/lib/qbd.js" />
         <option value="$PROJECT_DIR$/js/lib/qbs.js" />
         <option value="$PROJECT_DIR$/js/lib/charts/bar.js" />
         <option value="$PROJECT_DIR$/js/lib/charts/bubble.js" />
@@ -215,6 +172,14 @@
         <option value="$PROJECT_DIR$/demo/www/dummy.js" />
         <option value="$PROJECT_DIR$/demo/www/crime_poi.js" />
         <option value="$PROJECT_DIR$/demo/www/crime_poi.html" />
+        <option value="$PROJECT_DIR$/js/lib/qb.js" />
+        <option value="$PROJECT_DIR$/js/lib/qbd.js" />
+        <option value="$PROJECT_DIR$/demo/data/nsw_gov_crime_poi.json" />
+        <option value="$PROJECT_DIR$/demo/www/nsw_gov_crime_poi.js" />
+        <option value="$PROJECT_DIR$/js/charts/bar.js" />
+        <option value="$PROJECT_DIR$/js/charts.js" />
+        <option value="$PROJECT_DIR$/js/qb.js" />
+        <option value="$PROJECT_DIR$/js/qbd.js" />
       </list>
     </option>
   </component>
@@ -260,6 +225,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -275,6 +241,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="meta4qb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meta4qb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meta4qb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="charts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -324,32 +322,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="qb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meta4qb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dummy" />
+              <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,6 +336,11 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
@@ -437,12 +421,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1467893542632</updated>
-      <workItem from="1501156831209" duration="1768000" />
+      <workItem from="1501156831209" duration="12915000" />
+      <workItem from="1501468081827" duration="1179000" />
+      <workItem from="1501633527829" duration="175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1768000" />
+    <option name="totallyTimeSpent" value="14269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="85" y="24" width="1595" height="932" extended-state="0" />
@@ -451,21 +437,21 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24904701" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32738096" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32738096" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -484,7 +470,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/lib/qb.js">
+    <entry file="file://$PROJECT_DIR$/js/qb.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -509,212 +495,181 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/dummy/data0.json" />
     <entry file="file://$PROJECT_DIR$/test/www/index.js" />
-    <entry file="file://$PROJECT_DIR$/js/lib/charts/column.js">
+    <entry file="file://$PROJECT_DIR$/js/charts/column.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/charts/time.js">
+    <entry file="file://$PROJECT_DIR$/js/charts/time.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/charts/table.js">
+    <entry file="file://$PROJECT_DIR$/js/charts/table.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/charts/series.js">
+    <entry file="file://$PROJECT_DIR$/js/charts/series.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/js/index.js" />
     <entry file="file://$PROJECT_DIR$/demo/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/qbd.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="53" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/qbs.js">
+    <entry file="file://$PROJECT_DIR$/js/qbs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="56" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/reducers.js">
+    <entry file="file://$PROJECT_DIR$/js/reducers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/valuers.js">
+    <entry file="file://$PROJECT_DIR$/js/valuers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/qb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="74" selection-start-line="1" selection-start-column="74" selection-end-line="1" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/iq.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/defaults.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/colors.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/chart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/accessors.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/charts/bar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/charts/bubble.js">
+    <entry file="file://$PROJECT_DIR$/js/charts/bubble.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/charts/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/dummy/data_govs.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/dummy/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/www/dummy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/dummy/data_govs.json" />
+    <entry file="file://$PROJECT_DIR$/demo/dummy/data.json" />
+    <entry file="file://$PROJECT_DIR$/demo/www/dummy.html" />
     <entry file="file://$PROJECT_DIR$/demo/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/www/dummy.js" />
+    <entry file="file://$PROJECT_DIR$/demo/www/crime_poi.js" />
+    <entry file="file://$PROJECT_DIR$/demo/www/crime_poi.html" />
+    <entry file="file://$PROJECT_DIR$/demo/www/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/data/nsw_gov_crime_poi.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/qb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="154" selection-start-line="25" selection-start-column="154" selection-end-line="25" selection-end-column="154" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/www/dummy.js">
+    <entry file="file://$PROJECT_DIR$/js/qbd.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="64" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding>
-            <marker date="1501158294000" expanded="true" signature="2062:2648" ph="//..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/www/crime_poi.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="2010">
+          <caret line="134" column="8" selection-start-line="134" selection-start-column="8" selection-end-line="134" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/www/crime_poi.html">
+    <entry file="file://$PROJECT_DIR$/js/charts/bar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="345">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/charts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/www/nsw_gov_crime_poi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/accessors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/colors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/defaults.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/iq.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
