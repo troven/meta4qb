@@ -1,22 +1,45 @@
 {
   "name": "meta4qb",
-  "version": "0.5.4",
-  "description": "A declarative toolkit for building micro dashboards",
-  "main": "demo.index.js",
+  "version": "0.6.2",
+  "description": "A declarative toolkit for interactive charts",
+  "main": "public/dist/meta4qb.js",
+  "module": "src/index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "start": "bower install && npm install && node demo/index.js",
+    "start": "",
+    "watch": "webpack --watch",
+    "build": "webpack",
     "boot": "node demo/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "assert": "^1.4.1",
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
-    "lodash": "^4.13.1"
+    "colorbrewer": "^1.0.0",
+    "backbone": "^1.3.0",
+    "jquery": "^3.0.0",
+    "underscore": "^1.8.3",
+    "backbone.marionette": "^2.4.7",
+    "d3": "^3.5.17",
+    "dcjs": "^2.0.0",
+    "moment": "^2.14.1",
+    "dc-addons": "^0.13.5",
+    "bootstrap": "^3.3.7",
+    "crossfilter": "^1.3.12",
+    "crossfilter2": "^1.4.1"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^2.0.2",
+    "css-loader": "^0.28.4",
+    "csv-loader": "^2.1.1",
+    "file-loader": "^0.11.2",
+    "html-webpack-plugin": "^2.30.1",
+    "parcel-bundler": "^1.12.3",
+    "style-loader": "^0.18.2",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8",
+    "xml-loader": "^1.2.1"
   }
 }

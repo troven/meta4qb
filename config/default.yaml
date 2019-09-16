@@ -1,0 +1,95 @@
+name: qb-demo
+port: 5010
+
+features:
+  json:
+    enabled: true
+  prometheus:
+    enabled: true
+  render:
+    enabled: true
+    brand:
+      title: "demo-qb"
+  openapi:
+    enabled: true
+
+openapi:
+  servers:
+  info:
+    title: OpenAPI for demo-qb
+  paths:
+
+    /:
+      get:
+        feature:
+          operationId: api.redirect
+          path: "/page/index.html"
+
+    /page/:page.html:
+      get:
+        parameters:
+          - name: page
+            in: path
+            description: "ID of page to fetch."
+            required: true
+            schema:
+              type: string
+        feature:
+          operationId: api.render
+
+    /page/:path/:page.html:
+      get:
+        parameters:
+          - name: section
+            in: path
+            description: "ID of section to fetch."
+            required: true
+            schema:
+              type: string
+          - name: folder
+            in: path
+            description: "path to page"
+            required: true
+            schema:
+              type: string
+        feature:
+          operationId: api.render
+
+
+    /assets:
+      get:
+        operationId: "api.static_assets"
+
+    /healthz:
+      get:
+        summary: Health check
+        feature:
+          operationId: api.heartbeat
+        responses:
+         '200':
+            description: "200 response"
+            content:
+              application/json: {}
+
+    /metrics:
+      get:
+        summary: Metrics
+        feature:
+          operationId: api.metrics
+        responses:
+         '200':
+            description: "200 response"
+            content:
+              application/json: {}
+
+    /swagger:
+      get:
+        summary: Open API docs
+        operationId: swagger_api_docs
+        feature:
+          operationId: api.apidocs
+        responses:
+         '200':
+            description: "200 response"
+            content:
+              application/json: {}
